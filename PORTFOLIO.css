@@ -2,3 +2,42 @@ h2{
     text-align: center;
     color: darkblue;
 }
+img{
+    width: 30%;
+    height: 30%;
+
+}
+.one{
+    width:30%
+height:30%
+}
+.two{
+    width: 30%;
+    height: 30%;
+}
+.three{
+    width: 30%;
+    height: 30%;
+}
+.four{
+    float: right;
+}
+.five{
+    color: darkred;
+    border: green 2px solid;
+    border-radius: 3px;
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border: dimgray 2px solid;
+    border-radius: 2px;
+}
+a:hover{
+    color: white;
+    animation: ease-in-out;
+transition: 0.5s;
+    background-color: black;
+
+}
