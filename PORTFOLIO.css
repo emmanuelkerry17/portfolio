@@ -8,7 +8,7 @@ img{
 
 }
 .one{
-    width:30%
+    width:30%;
 height:30%
 }
 .two{
@@ -39,5 +39,11 @@ a:hover{
     animation: ease-in-out;
 transition: 0.5s;
     background-color: black;
-
+}
+textarea{
+    background-color: black;
+    color: white;
+}
+.six{
+    background-color: darkgrey;
 }
